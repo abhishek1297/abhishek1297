@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Abhishek
 - 👀 I’m interested in AI/ML & HPC
-- 🌱 I’m currently learning 
+- 🌱 I’m currently learning about AI & HPC convergence
 - 💞️ I’m looking to collaborate on Deep Learning or Parallel Programming projects.
 - 📫 How to reach me abhishek.purandare.pa@gmail.com
 
